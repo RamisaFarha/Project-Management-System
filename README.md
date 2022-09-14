@@ -1,0 +1,2 @@
+# Project-Management-System
+Developed a Project Management System, a well-designed software to manage and monitor the overall project activities, to take into consideration 4 aspects such as Business Need, Business Requirement, Business Value, and some Special Constraints while developing. This will aid a company in properly conducting and managing each and every existing project and enable it to complete it within the allotted time.
